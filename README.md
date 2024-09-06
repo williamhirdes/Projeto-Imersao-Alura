@@ -17,9 +17,14 @@ Site criado com a intenção de cátalogar filmes, onde é possivel buscar pelo 
 
 
 
-
 ## Funcionalidades
 
 
 * Sistema de pesquisa
+
+
+
+## Imagens
+
+![imagem_site](https://github.com/user-attachments/assets/1fbf4b58-cbed-45c0-b148-962c97bef73d)
 
