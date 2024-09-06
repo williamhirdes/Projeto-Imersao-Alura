@@ -76,8 +76,7 @@ section button:hover {
     margin-top: 1rem;
     padding: rem;
     border-radius: 0.6rem;
-    background-color: #303030; /* Cor de fundo escura */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    
 }
 
 /* Estiliza cada item de resultado */
