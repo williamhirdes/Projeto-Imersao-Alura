@@ -4,7 +4,6 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/williamhirdes)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-hirdes-22181013a)
 
 # Descrição
 Site criado com a intenção de cátalogar filmes, onde é possivel buscar pelo nome, onde a ira aparecer a sinopse e um link para IMDb.
