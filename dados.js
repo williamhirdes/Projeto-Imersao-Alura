@@ -24,4 +24,14 @@ let dados = [
         descricao: "A história de origem de um dos vilões mais icônicos da cultura pop. O filme acompanha a transformação de Arthur Fleck, um comediante fracassado, no temido Coringa, em uma Gotham caótica e corrupta.",
         link: "https://www.imdb.com/title/tt7286456/"
     },
+    {
+        titulo: "O Senhor dos Anéis: A Sociedade do Anel",
+        descricao: "Um hobbit encontra um anel mágico que pode controlar o mundo e inicia uma jornada épica para destruí-lo.",
+        link: "https://www.imdb.com/title/tt0120737/?"
+    },
+    {
+        titulo: "Parasita",
+        descricao: "Duas famílias de classes sociais opostas se cruzam de forma inesperada, desencadeando uma série de eventos trágicos.",
+        link: "https://www.imdb.com/title/tt6751668/"
+    },
 ];
