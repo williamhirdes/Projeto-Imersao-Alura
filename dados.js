@@ -40,5 +40,42 @@ let dados = [
         descricao: "Duas famílias de classes sociais opostas se cruzam de forma inesperada, desencadeando uma série de eventos trágicos.",
         link: "https://www.imdb.com/title/tt6751668/",
         tags: "Drama, Comédia, Suspense",
-    }
+    },
+    {
+        titulo : "It - A Coisa",
+        descricao : "Baseado no romance de Stephen King, o filme segue um grupo de crianças que enfrentam seus maiores medos quando procuram por respostas sobre desaparecimentos na cidade, confrontando um malévolo palhaço chamado Pennywise.",
+        link : "https://www.imdb.com/title/tt1396484/",
+        tags : "Terror, Suspense"
+    },
+    
+    {
+        titulo : "Annabelle",
+        descricao : "Um casal começa a experienciar eventos aterrorizantes envolvendo uma boneca possuída logo após sua casa ser invadida por adoradores de seitas satânicas. O filme é um spin-off da série 'Invocação do Mal'.",
+        link : "https://www.imdb.com/title/tt3322940/",
+        tags : "Terror, Mistério"
+    },
+    {
+        titulo : "A Freira",
+        descricao : "Uma freira e um padre são enviados pelo Vaticano para investigar o suicídio de uma jovem freira na Romênia e confrontam uma força malévola na forma de uma freira demoníaca.",
+        link : "https://www.imdb.com/title/tt5814060/",
+        tags : "Terror, Mistério, Suspense"
+    },
+    {
+        titulo : "Hereditário",
+        descricao : "Após a morte da matriarca da família, a família Graham começa a desvendar segredos cada vez mais aterrorizantes sobre sua ancestralidade, e tentam superar o destino sinistro que parecem ter herdado.",
+        link : "https://www.imdb.com/title/tt7784604/",
+        tags : "Terror, Drama, Mistério"
+    },
+    {
+        titulo : "Corra!",
+        descricao : "Chris, um jovem afro-americano, visita a propriedade da família de sua namorada branca e aos poucos descobre uma conspiração sinistra que está acontecendo.",
+        link : "https://www.imdb.com/title/tt5052448/",
+        tags : "Terror, Suspense, Mistério"
+    },
+    {
+        titulo : "O Exorcista",
+        descricao : "Um filme icônico sobre uma menina possuída por um demônio e os dois padres que tentam salvar sua alma realizando um exorcismo. Baseado no livro de William Peter Blatty.",
+        link : "https://www.imdb.com/title/tt0070047/",
+        tags : "Terror, Drama"
+    },
 ];
