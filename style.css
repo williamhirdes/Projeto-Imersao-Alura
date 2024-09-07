@@ -73,7 +73,7 @@ section button:hover {
 
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
-    width: 60rem;
+    width: 50rem;
     height: 46vh;
     overflow-y: auto;
     margin-top: 1rem;
